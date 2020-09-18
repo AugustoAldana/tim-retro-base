@@ -1,0 +1,17 @@
+html{
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+/* Listes à puces sur tous les LI */
+li {
+  list-style: none;
+}
+
+/* Enlever les marges sur les H1, H2 */
+h1, h2 {
+  margin: 0;
+}
