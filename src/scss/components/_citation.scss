@@ -1,7 +1,7 @@
 
 .citation {
   min-height: 404px;
-
+  background-image: url("../../images/bg-citation.jpg");
   background-size: cover;
   background-position: center;
 
@@ -11,13 +11,14 @@
   color: var(--couleur-blanc);
 
   .conteneur {
-    padding: 0 150px;
+    padding: 89px 0;
 
   }
 
   h3 {
     font-size: 40px;
     text-transform: uppercase;
+
   }
 
 

@@ -9,19 +9,22 @@
 .carte {
   width: 31%;
 
+  height: 367px;
+  padding: 20px;
+  margin: 40px 0 0;
   background: var(--couleur-blanc);
 
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
-
-  margin: 10px 0;
-  padding: 20px;
-
   text-align: center;
 
   img{
-    width: 151px;
-    height: 151px;
+    width: 150px;
+    height: 150px;
   }
 
 
 }
+
+
+
+

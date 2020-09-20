@@ -1,0 +1,26 @@
+.footer-principal {
+  color: var(--couleur-blanc);
+  background: var(--couleur-noir);
+
+  height: 144px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+  a {
+    color: var(--couleur-blanc);
+    text-decoration: none;
+    &:hover {
+      color: var(--couleur-primaire);
+      text-decoration: underline;
+    }
+  }
+
+
+
+  .copyright {
+    text-align: center;
+  }
+
+}
